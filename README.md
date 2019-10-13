@@ -1,6 +1,6 @@
 # Graph
 
-> This app is using https://github.com/jaredpalmer/tsdx *- Zero-config CLI for TypeScript package development
+> This app is using https://github.com/jaredpalmer/tsdx - Zero-config CLI for TypeScript package development
 
 In the production, I'd rather use pure `node-based` app, but in the requirements are `js/ts`. Therefore, in this example is no docker. 
 
